@@ -15,5 +15,6 @@ crobtab -e
 ```
 then add:
 ```shel
-*/5 * * * * /home/vagrant/job/job.py https://goplay.la https://gtoken.com https://dev.goplay.la https://dev2.gtoken.com
+*/5 * * * * /home/vagrant/job/job.py https://goplay.la https://gtoken.com
 ```
+This command will check run the job each 5 minutes
