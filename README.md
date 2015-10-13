@@ -18,3 +18,5 @@ then add:
 */5 * * * * /home/vagrant/job/job.py https://goplay.la https://gtoken.com
 ```
 This command will check run the job each 5 minutes
+
+Reference link: [http://www.eriwen.com/python/site-monitor/](http://www.eriwen.com/python/site-monitor/)
